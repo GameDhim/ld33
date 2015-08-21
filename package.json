@@ -1,0 +1,26 @@
+{
+  "name": "ld33",
+  "version": "1.0.0",
+  "description": "My second Ludum Dare Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GameDhim/ld33.git"
+  },
+  "keywords": [
+    "LD32"
+  ],
+  "author": "Dhim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GameDhim/ld33/issues"
+  },
+  "homepage": "https://github.com/GameDhim/ld33",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.3"
+  }
+}
